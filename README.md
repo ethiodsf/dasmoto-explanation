@@ -3,8 +3,8 @@
 * **Objective** - Explain the usage of the various HTML and CSS elements that make up the Dasmoto assignment
 * **Purpose** - To establish familiarity HTML and CSS elements and readding HTML and CSS code.
 * **Requirements**
+    * Create an element in the `index.html` file (immediately following the opening `body`    tag) that displays the name of all team members.
     * Go line by line and add a comment explaining what is happening in that line of code.
-
 
 
 ## Part 1 - Clone the project
