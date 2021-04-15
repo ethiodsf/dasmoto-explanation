@@ -1,4 +1,4 @@
-# dasmoto-explaination
+# dasmoto-explanation
 
 * **Objective** - Explain the usage of the various HTML and CSS elements that make up the Dasmoto assignment
 * **Purpose** - To establish familiarity HTML and CSS elements and readding HTML and CSS code.
