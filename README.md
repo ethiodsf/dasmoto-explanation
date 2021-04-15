@@ -7,7 +7,7 @@
     * Go line by line and add a comment explaining what is happening in that line of code.
 
 
-## Part 1 - Clone the project
+## Part 1 - Fork and Clone the project
 
 * Begin by _forking_ this project into a personal repository.
    * To do this, click the `Fork` button located at the top right of this page.
